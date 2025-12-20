@@ -1,0 +1,6 @@
+#Ambiente virtuale
+.venv/
+
+#File di configurazione di sistema
+.vscode/
+
